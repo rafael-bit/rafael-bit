@@ -3,6 +3,7 @@
 ### Sobre mim
 
 <p>Estudante de desenvolvimentor web.</p>
+<div align="center">
  <a href="https://github.com/rafael-bit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-bit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-bit&layout=compact&langs_count=7&theme=dark"/>
