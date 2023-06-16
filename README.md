@@ -2,11 +2,16 @@
 
 ### Sobre mim
 
-<p>Estudante de desenvolvimentor web.</p>
+<p>Desenvolver de Software</p>
 <div style="display: inline_block" align="center">
  <a href="https://github.com/rafael-bit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-bit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-bit&layout=compact&langs_count=7&theme=dark"/>
+  <span align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-bit&show_icons=true&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175/>
+ </span>
+ 
+ <span align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-bit&layout=compact&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=135 />
+ </span>
 </div>
 <hr>
 
@@ -21,6 +26,7 @@
 <hr>
 Contato
 <div>
+ <br />
   <a href="https://www.instagram.com/0rafaelaquila/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:raquila743@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-aquila" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
