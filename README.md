@@ -7,7 +7,7 @@ Front-End Developer
     > 💻 Languages and technologies: TypeScript, JavaScript, React, Next.js, and Tailwind CSS.<br/>
     > 💼 Professional experience:
       - Freelancer: Developed systems and improved web pages.
-      - IT Support Technician (Brumado City Hall): Built web solutions and provided technical support.<br/>
+      - IT Support Technician: Built web solutions and provided technical support.<br/>
     > 🧠 Skills: Building systems, fixing bugs, creating responsive designs, and solving real-world problems.<br/>
     > 🎓 Bachelor's degree in Computer Science (in progress) and Technical degree in IT from IFBA.
   </pre>
