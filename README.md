@@ -13,12 +13,5 @@ Front-End Developer
   </pre>
 </details><br />
 
-  <kbd style="text-decoration: none; color: white; padding: 8px; border-radius: 4px;"> <br> [Github](https://github.com/rafael-bit) <br> </kbd>
   <kbd> <br> [LinkedIn](https://www.linkedin.com/in/rafael-aquila/) <br> </kbd>
   <kbd> <br> [Bento](https://bento.me/rafaelaquila) <br> </kbd>
-
-<!--
-- 🤔
-- 😄
-- 🔭
--->
