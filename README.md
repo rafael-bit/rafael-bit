@@ -6,8 +6,10 @@ Front-End Developer
     > 👨‍💻 Frontend Developer with over 3 year of experience in building reactive interfaces and web applications. <br/>
     > 💻 Languages and technologies: TypeScript, JavaScript, React, Next.js, and Tailwind CSS.<br/>
     > 💼 Professional experience:
-      - Freelancer: Developed systems and improved web pages.
-      - IT Support Technician: Built web solutions and provided technical support.<br/>
+      - Software Develop.
+      - Front-End Engineer.
+      - FullStack Develop. 
+    <br/>
     > 🧠 Skills: Building systems, fixing bugs, creating responsive designs, and solving real-world problems.<br/>
     > 🎓 Bachelor's degree in Computer Science (in progress) and Technical degree in IT from IFBA.
   </pre>
