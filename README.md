@@ -3,7 +3,7 @@ Front-End Developer
 <details>
   <summary>Click for some interesting facts about me 👈🏻</summary><br />
   <pre>
-    > 👨‍💻 Frontend Developer with over 1 year of experience in building reactive interfaces and web applications. <br/>
+    > 👨‍💻 Frontend Developer with over 3 year of experience in building reactive interfaces and web applications. <br/>
     > 💻 Languages and technologies: TypeScript, JavaScript, React, Next.js, and Tailwind CSS.<br/>
     > 💼 Professional experience:
       - Freelancer: Developed systems and improved web pages.
